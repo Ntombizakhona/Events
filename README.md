@@ -39,4 +39,4 @@ I’m always open to learning in public and learning with others.
 
 **Tech events are temporary. Good notes compound.**
 
-[Tech Events Blog](https://ntombizakhona.medium.com/list/tech-events-14eb3e954d92) 
+[Tech Events List](https://ntombizakhona.medium.com/list/tech-events-14eb3e954d92) 
