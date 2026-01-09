@@ -88,6 +88,10 @@ As we look to the future, investing in cloud skills and resources is not just a 
 
 So, why wait? The cloud’s the limit.
 
+---
+
+# The Original
+
 **Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
 <br>
 **Article Link:** [AWS Pop Up Hub](https://ntombizakhona.medium.com/aws-pop-up-hub-eadcd21c00ed)
